@@ -1,6 +1,6 @@
 # song-player-in-html
 
-A online player in html with plylist
+A online player in html with playlist
 
 Github pages: https://harshalparmar.github.io/song-player-in-html/
 
