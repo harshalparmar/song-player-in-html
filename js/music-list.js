@@ -2,37 +2,37 @@ let allMusic = [
   {
     name: "Shayad",
     artist: "Arijit Singh",
-    img: "music-1",
+    img: "jo-tum-na-ho",
     src: "jo-tum-na-ho"
   },
   {
-    name: "Ikson Anywhere – Ikson",
-    artist: "Audio Library",
-    img: "music-2",
+    name: "Kya Mujhe Pyaar Hai",
+    artist: "Shiny Ahuja",
+    img: "kya-mujhe-pyar-hai",
     src: "kya-mujhe-pyar-hai"
   },
   {
-    name: "Beauz & Jvna - Crazy",
-    artist: "Beauz & Jvna",
-    img: "music-3",
+    name: "Pal",
+    artist: "Arijit Singh",
+    img: "pal",
     src: "pal"
   },
   {
-    name: "Hardwind - Want Me",
-    artist: "Mike Archangelo",
-    img: "music-4",
+    name: "Phir Kabhi",
+    artist: "Arijit Singh",
+    img: "phir-kabhi",
     src: "phir-kabhi"
   },
   {
-    name: "Jim - Sun Goes Down",
-    artist: "Jim Yosef x Roy",
-    img: "music-5",
+    name: "Tum Mile",
+    artist: "Neeraj Shridhar",
+    img: "tum-mile",
     src: "tum-mile"
   },
   {
-    name: "Lost Sky - Vision NCS",
-    artist: "NCS Release",
-    img: "music-6",
+    name: "Waalian : Harnoor",
+    artist: "Harnoor",
+    img: "waalian-harnoor",
     src: "waalian-harnoor"
   },
 ];
