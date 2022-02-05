@@ -10,13 +10,7 @@
   margin: 0;
 }
 :root{
-  --pink: #ffffff;
-  --violet: #ffffff;
-  --lightblack: #ffffff;
-  --white: #ffffff;
-  --darkwhite: #cecaca;
-  --pinkshadow: #ffffff;
-  --lightbshadow: rgba(0,0,0,0.15);
+<img src="pal.jpg" alt="Paris">
 }
 body{
   display: flex;
